@@ -1,0 +1,16 @@
+# dados e modelos
+dados/
+modelos/
+*.csv
+*.joblib
+
+# ambiente e segredos
+.venv/
+.env
+
+# temporários
+.ipynb_checkpoints/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
